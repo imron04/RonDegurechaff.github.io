@@ -164,10 +164,6 @@ nav .navbar .links li:hover .anime-sub-menu {
 }
 
 main {
-  /* width: 90%;
-  margin: 5em auto;
-  display: flex;
-  justify-content: space-between; */
   padding: 20px;
   width: 90%;
   overflow: auto;
@@ -430,7 +426,7 @@ button:hover {
 
   main {
     flex-direction: column;
-    margin: 9% auto;
+    margin: 10% auto;
   }
 
   article {
@@ -501,7 +497,7 @@ button:hover {
   main {
     flex-direction: column;
     width: 100%;
-    margin: 9% auto;
+    margin: 10% auto;
   }
 
   article {

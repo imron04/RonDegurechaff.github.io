@@ -501,6 +501,7 @@ button:hover {
   main {
     flex-direction: column;
     width: 100%;
+    margin: 9% auto;
   }
 
   article {
